@@ -1,0 +1,74 @@
+.wraper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    text-shadow: 5px 3px 5px #101010;
+    color: #fff;
+    background: url(../img/banner.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dosis', sans-serif;
+}
+.wraper_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    justify-content: space-between;
+    width: 50%;
+    background: url(../img/content.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 555px;
+    
+}
+.wraper_box--check{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+.wraper_box-login{
+    font-size: 3em;
+    letter-spacing: 8px;
+    font-weight: 500;
+    text-shadow: 5px 3px 5px #101010;
+    color:#fff;
+    margin-top: 30px;
+}
+.wraper_box-reset{
+    letter-spacing: 2px;
+    font-weight: 500;
+    text-shadow: 5px 3px 5px #101010;
+    color:#fff;
+    margin-bottom: 50px;
+}
+.wraper_box--user{
+    margin-top: 10px;
+}
+.wraper_box--pass{
+    margin-top: 10px;
+}
+h4{
+    margin-bottom: 5px;
+}
+.inputpadding{
+    font-size: .9em;
+    padding: 1em 3em 1em 1em;
+    margin-bottom: 0.3em;
+    background: rgba(255, 255, 255, 0.85);
+    width: 100%;
+    color: #000;
+    border-radius: 30px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    border: none;
+    outline: none;
+}
+.btn{
+    text-shadow: 5px 3px 5px #101010;
+}

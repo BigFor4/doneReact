@@ -1,0 +1,41 @@
+.mt-25{
+    margin-top: 25px;
+  }
+  .mt-15{
+    margin-top: 15px;
+  }
+  .mb-50{
+    margin-bottom: 50px;
+  }
+  .btn-pd{
+    padding: 0;
+    font-size: 12px;
+  }
+  .ml-5{
+    margin-left: 5px;
+  }
+  
+  .mr-5{
+    margin-right: 5px;
+  }
+  .mr-10{
+    margin-right: 10px;
+  }
+  .ml-10{
+    margin-left: 10px;
+  }
+  .stars{
+    margin-left: 60px;
+  }
+  ul.stars li {
+    display: inline-block;
+  }
+  
+  ul.stars li span {
+    font-size: 1em;
+    margin: 0 0.2em;
+  }
+  
+  ul.stars li span:hover {
+    opacity: 0.8;
+  }
